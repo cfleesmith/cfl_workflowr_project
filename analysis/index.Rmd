@@ -12,6 +12,6 @@ Welcome to my teeth growth analysis website.
 
 * [Teeth Growth Analysis](teeth.html)
 
-Check out my teammate's teeth!
+Check out my teammate's analysis!
 
-* [xxx's analysis]()
+* [Kiseok's site](https://kiseokuchicago.github.io/test/)
